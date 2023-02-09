@@ -1,9 +1,9 @@
 {
-    "name": "tarlepp/marcin-galaszeski",
+    "name": "tarlepp/docker-entrypoint-example",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Tarlepp\\MarcinGalaszeski\\": "src/"
+            "Tarlepp\\DockerEntrypointExample\\": "src/"
         }
     },
     "authors": [
