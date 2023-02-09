@@ -1,0 +1,16 @@
+{
+    "name": "tarlepp/marcin-galaszeski",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tarlepp\\MarcinGalaszeski\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tarmo Leppänen",
+            "email": "tarmo.leppanen@pinja.com"
+        }
+    ],
+    "require": {}
+}

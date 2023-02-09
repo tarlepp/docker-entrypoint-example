@@ -1,0 +1,11 @@
+version: '3'
+services:
+  php:
+    container_name: php-fpm
+    hostname: php-fpm
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    command: php-fpm
+    volumes:
+      - ./:/app:cached
