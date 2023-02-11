@@ -2,5 +2,5 @@
 
 function someFunction(): void
 {
-    echo "\n\nthis works\n\n";
+    echo "\n\n------------------------\n\nImporting custom functions also work\n\n------------------------\n\n";
 }

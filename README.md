@@ -15,6 +15,16 @@ Just run `docker-compose up` command to start container. You should see
 -------------------------- Running composer install --------------------------
 ```
 
+And after that you should also see
+
+```bash
+php-fpm | ------------------------
+php-fpm | 
+php-fpm | Importing custom functions also work
+php-fpm | 
+php-fpm | ------------------------
+```
+
 each time you start containers again.
 
 ## License
