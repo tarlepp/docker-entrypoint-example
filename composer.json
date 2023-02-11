@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "Tarlepp\\DockerEntrypointExample\\": "src/"
-        }
+        },
+        "files": [
+            "src/Helpers/functions.php"
+        ]
     },
     "authors": [
         {
